@@ -1,8 +1,0 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AstraMCPE/TestServerCore
-build-by-default: true
-branches:
-- master
-projects:
-  TestServerCore:
-    path: ""
-...
