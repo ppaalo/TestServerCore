@@ -2,3 +2,5 @@ name: TestServerCore
 main: Taco\TestServerCore\Core
 version: 1.0.0
 api: "3.0.0"
+description: "Core For Your Test Server"
+website: github.com/AstraMCPE
